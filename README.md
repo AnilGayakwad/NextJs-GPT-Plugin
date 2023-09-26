@@ -51,9 +51,9 @@ pnpm dev -p 9080
 ```
 
 Open below Url's with your browser to see the result.
-[http://localhost:9080](http://localhost:9080) 
-[http://localhost:9080/.well-known/ai-plugin.json](http://localhost:9080/.well-known/ai-plugin.json)
-[http://localhost:9080/swagger.json](http://localhost:9080/swagger.json)
+- [http://localhost:9080](http://localhost:9080) 
+- [http://localhost:9080/.well-known/ai-plugin.json](http://localhost:9080/.well-known/ai-plugin.json)
+- [http://localhost:9080/swagger.json](http://localhost:9080/swagger.json)
 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file. 
